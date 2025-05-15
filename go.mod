@@ -1,4 +1,4 @@
-module github.com/oiime/logrusbun
+module github.com/jernsting/logrusbun
 
 go 1.16
 
