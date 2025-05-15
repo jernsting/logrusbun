@@ -3,8 +3,9 @@
 A simple hook for bun that enables logging with logrus
 
 
-    go get github.com/oiime/logrusbun
+    go get github.com/jernsting/logrusbun
 
+I am not maintaining this repository, this is only a quick fix to use the new API until the original author releases a new version.
 
 ## Usage
 
